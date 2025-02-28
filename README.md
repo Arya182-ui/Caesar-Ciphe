@@ -45,8 +45,8 @@ python gui.py
 
 ## **🖥️ Screenshots**
 
-📥 Encryption & Decryption Interface
-📊 Frequency Visualization Chart
+![📥Encryption & Decryption Interface](path-to-image/image.png)
+![📊 Frequency Visualization Chart](path-to-image/image.png)
 
 
 ## **📂 Project Structure**
