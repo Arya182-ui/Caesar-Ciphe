@@ -43,10 +43,19 @@ pip install -r requirements.txt
 python gui.py
 ```
 
-## **🖥️ Screenshots**
+## 🖥️ Screenshots
 
-![📥Encryption & Decryption Interface](img/Screenshot 2025-02-26 210614.png)
-![📊 Frequency Visualization Chart](img/Screenshot 2025-02-26 210625.png)
+<center>
+
+**📥 Encryption & Decryption Interface**  
+![Encryption & Decryption Interface](img/Screenshot%202025-02-26%20210614.png "📥 Encryption & Decryption Interface")
+
+**📊 Frequency Visualization Chart**  
+![Frequency Visualization Chart](img/Screenshot%202025-02-26%20210625.png "📊 Frequency Visualization Chart")
+
+</center>
+
+
 
 
 ## **📂 Project Structure**
