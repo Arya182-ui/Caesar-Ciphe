@@ -45,7 +45,7 @@ python gui.py
 
 ## **🖥️ Screenshots**
 
-![📥Encryption & Decryption Interface](path-to-image/image.png)
+![📥Encryption & Decryption Interface](img/Screenshot 2025-02-26 210614.png)
 ![📊 Frequency Visualization Chart](path-to-image/image.png)
 
 
