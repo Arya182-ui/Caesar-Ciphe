@@ -45,15 +45,18 @@ python gui.py
 
 ## 🖥️ Screenshots
 
-<center>
+<div align="center">
+    <figure>
+        <h3>📥 Encryption & Decryption Interface</h3>
+        <img src="img/Screenshot%202025-02-26%20210614.png" alt="Encryption & Decryption Interface" title="📥 Encryption & Decryption Interface" width="50%">    
+    </figure>
+    <br>
+    <figure>
+        <h2>📊 Frequency Visualization Chart<h2>
+        <img src="img/Screenshot%202025-02-26%20210625.png" alt="Frequency Visualization Chart" title="📊 Frequency Visualization Chart" width="50%">
+    </figure>
+</div>
 
-**📥 Encryption & Decryption Interface**  
-![Encryption & Decryption Interface](img/Screenshot%202025-02-26%20210614.png "📥 Encryption & Decryption Interface")
-
-**📊 Frequency Visualization Chart**  
-![Frequency Visualization Chart](img/Screenshot%202025-02-26%20210625.png "📊 Frequency Visualization Chart")
-
-</center>
 
 
 
