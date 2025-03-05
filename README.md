@@ -27,8 +27,8 @@ A powerful, user-friendly GUI-based application for encrypting, decrypting, and 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Arya182-ui/CaesarCipherTool.git
-cd CaesarCipherTool
+https://github.com/Arya182-ui/Caesar-Ciphe.git
+cd Caesar-Ciphe
 ```
 
 2. **Install the required dependencies:**
